@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rajashree Jena
+- 👀 I’m interested in Bioinformatics and Computational Biology
+- 🌱 I’m currently learning Bioinformatics.
+- 📫 Please reach me at @rajashreej2003@gmail.com
